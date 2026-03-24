@@ -12,7 +12,7 @@ The business process includes four funnel stages:
 The main goal of the analysis is to identify factors that may influence conversion and formulate business hypotheses to improve the conversion from application to first payment.
 
 ## Main metric
-**C1 conversion** = number of first payments / number of incoming applications
+**C1 conversion** $= \frac{number of first payments}{number of incoming applications}$
 
 ## Dataset
 The dataset contains lead-level and process-level information, including:

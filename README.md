@@ -52,6 +52,30 @@ An analytical case focused on survey results and customer feedback patterns in t
 
 ---
 
+### 3. [Lead-to-Payment Conversion Analysis](https://github.com/anxsel/analytics-portfolio/tree/main/lead-to-payment-conversion-analysis)
+**Directory:** `lead-to-payment-conversion-analysis`
+
+A funnel analytics case focused on conversion from incoming applications to first payment.
+
+**What was done:**
+- performed data quality analysis and validated dataset consistency,
+- built and analyzed the conversion funnel (Application → Call → Trial → Payment),
+- engineered time-based features (time to call, reach, and trial),
+- tested multiple hypotheses on conversion drivers (source, operators, timing, reach),
+- identified key bottlenecks in the funnel,
+- created a dashboard with key insights for non-technical stakeholders.
+
+**Key topics:**
+- product analytics
+- conversion funnel analysis
+- hypothesis testing
+- user behavior analysis
+- data quality assessment
+- business insights & recommendations
+- dashboarding
+
+---
+
 ## Tools and skills
 Across these projects, I use:
 - **SQL** — joins, aggregations, CTEs, filtering, metric preparation
